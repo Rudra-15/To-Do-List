@@ -1,6 +1,6 @@
 # 📝 To-Do List App (Python & Tkinter)
 
-A simple **To-Do List Application** built using Python's Tkinter for a GUI-based task management experience.
+A simple To-Do List Application built with Python Tkinter that allows users to add, remove, clear, and save tasks. The tasks are stored in a text file so they can be reloaded later.
 
 ## 🚀 Features
 ✅ Add new tasks  
@@ -8,5 +8,3 @@ A simple **To-Do List Application** built using Python's Tkinter for a GUI-based
 ✅ Clear all tasks  
 ✅ Save tasks to a file  
 ✅ Load tasks from a file  
-
-## 📂 Project Structure
